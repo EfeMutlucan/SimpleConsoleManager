@@ -1,6 +1,6 @@
-# Simple OS Simulation
+# Simple OS Manager
 
-This project is a simple OS simulation written in C++. It includes a login screen, a menu with options to view a calendar, use a calculator, and exit the program.
+This project is a simple OS manager written in C++. It includes a login screen, a menu with options to view a calendar, use a calculator, and exit the program.
 
 ## Features
 
